@@ -1,0 +1,2 @@
+# MergeConflictsTest
+MergeConflictsTest
